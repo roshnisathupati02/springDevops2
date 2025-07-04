@@ -10,6 +10,6 @@ public class MyController {
 	@GetMapping("/")
 	@ResponseBody
 	public String index() {
-		return "<h1 style='color:blue'>web application development with spring boot</h1>";
+		return "<h1 style='color:blue'>web application development with java</h1>";
 	}
 }
